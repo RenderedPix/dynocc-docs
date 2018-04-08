@@ -1,4 +1,4 @@
-# Mod Call
+# Mod-Call
 Usage: ```?modcall```
 
 Description: Pings the mods for user support.
