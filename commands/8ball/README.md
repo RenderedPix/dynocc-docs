@@ -9,8 +9,11 @@ Code:
 ```
 
 What ```{delete}``` does: It deletes your message when you run the command.
+
 What ```{choose}``` does: It chooses a response of your question.
+
 What ```{choice}``` does: It gives you the final answer from ```{choose}```
+
 What ```{!announce}``` does: It will broadcast the message in the channel you are in, as a command.
 
 Steps to make it work:
