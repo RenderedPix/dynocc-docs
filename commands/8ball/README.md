@@ -1,5 +1,6 @@
 # 8ball
 Usage: ```?8ball <question>```
+
 Description: 8ball is a command that is designed to be a fortuned teller! Ask any question and it will pick an answer!
 
 Code:
