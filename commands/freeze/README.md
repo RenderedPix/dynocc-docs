@@ -8,7 +8,7 @@ Code:
 {silent}
 {require:serverAdmin}
 {!role all +freeze}
-**<:thumbsup_blob:345039968693125120> Chat frozen**                                                                                                                                                                                                                                 {user.username}                                                                                                                                                                                                                                                   <:8ball_blob:349679658033348618> 8Ball                                                                                                                                                                                                                                                            _　_                                                                                                                                                                                                                                                                  Q. $1+                                                                                                                                                                                                                                                                      A. {choice}}  
+**<:thumbsup_blob:345039968693125120> Chat frozen**
 ```
 
 What ```{delete}``` does: It deletes your message when you run the command.
