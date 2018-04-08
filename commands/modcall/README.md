@@ -1,7 +1,7 @@
 # 8ball
-Usage: ```?8ball <question>```
+Usage: ```?modcall```
 
-Description: 8ball is a command that is designed to be a fortuned teller! Ask any question and it will pick an answer!
+Description: Pings the mods for user support.
 
 Code:
 ```
