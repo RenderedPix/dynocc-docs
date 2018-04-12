@@ -2,8 +2,8 @@
 ### ----- Home Of The Custom Commands -----
 
 ## Directory:
-1. ### [Commands List](/dynocc-docs/commands)
+#### 1. ### [Commands List](/dynocc-docs/commands)
 
 
-We don't make any profit from this, it is only voluntary.
-Visit our [custom commands website!](http://www.dynocc.tk)
+#### We don't make any profit from this, it is only voluntary.
+#### Visit the [custom creators website!](http://www.dynocc.tk)
