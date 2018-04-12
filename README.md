@@ -2,4 +2,4 @@
 ### ----- Home Of The Custom Commands -----
 
 ## Directory:
-1. ### Commands List
+1. ### [Commands List](/commands)
