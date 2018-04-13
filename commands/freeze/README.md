@@ -1,4 +1,5 @@
 # Freeze
+#### More documentation can be found here at the [Custom Commands website!](https://dynocc.tk/freeze)
 Usage: ```?freeze```
 
 Description: Mutes everyone by setting their role to **FREEZE**
